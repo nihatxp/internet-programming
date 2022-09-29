@@ -133,7 +133,7 @@ if(isset($_POST['deger2']))
                 }
                 break;
             default:
-                echo '<div class="hata">'.'Sonuç: '.($deger1/$deger2).'</div>';
+                echo '<div class="hata">'.'Bilinmeyen bir hata oluştu.'</div>';
                 break;
         }
     }
