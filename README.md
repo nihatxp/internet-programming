@@ -1,7 +1,7 @@
 > # PHP Ödevleri **Murat Sarı**  
 
-| - **Ödev adı** - | - **Repository Adı** - |
+| - **Ödev adı** - | - **Klasör Adı** - |
 |--|--|
-|[Hafta 1 Ödevi - İki Sayıyı Topla](./Odev_1)|**İki Sayıyı Topla**|
-|[Hafta 1 Ödevi - Select ile aritmetik işlemler](./Odev_2)|**Select ile aritmetik işlemler**|
-|[Hafta 3 Ödevi - Sınıfta Yapılanlar](./Sinifta-Yapilanlar)|Sınıfta Yapılanlar|
+|[Hafta 1 Ödevi - İki Sayıyı Topla](./Odev_1)|**Odev_1**|
+|[Hafta 1 Ödevi - Select ile aritmetik işlemler](./Odev_2)|**Odev_2**|
+|[Hafta 3 Ödevi - Sınıfta Yapılanlar](./Sinifta-Yapilanlar)|Sinifta-Yapilanlar|
