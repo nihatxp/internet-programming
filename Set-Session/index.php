@@ -1,5 +1,6 @@
 <?php
     session_start();
+    $message = "";
     if(isset($_SESSION["GirisDurumu"])){
         if( $_SESSION["GirisDurumu"] == 1){
             $message=basariliGiris();
